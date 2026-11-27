@@ -10,3 +10,6 @@ Support URL: https://giventhomas1-cyber.github.io/mkwanjax-support/
 Privacy URL: https://giventhomas1-cyber.github.io/mkwanjax-support/privacy.html
 Terms URL: https://giventhomas1-cyber.github.io/mkwanjax-support/terms.html
 Support contact: info@pasuax.com
+
+The app shows public fixture and match-report information only. It does not
+include an analyst directory or user profile feature.
